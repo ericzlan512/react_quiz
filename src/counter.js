@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 
 class Counter extends Component {
+    // write your code...
     render() {
         return (
             <div className={'counter_text'}>
