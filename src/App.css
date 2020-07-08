@@ -24,8 +24,10 @@
   color: white;
 }
 
-.App-link {
+.counter_text {
   color: #61dafb;
+  font-size: 100px;
+  font-weight: bold;
 }
 
 @keyframes App-logo-spin {
